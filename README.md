@@ -33,5 +33,5 @@ O curso terá duração de quatro horas e será ministrado em um dia. Será dipo
 
 
 <a href="https://github.com/PETEletricaUFPB">
-  <img src="/images/capa.jpg">
+  <img src="/images/capa.png">
 </a>
