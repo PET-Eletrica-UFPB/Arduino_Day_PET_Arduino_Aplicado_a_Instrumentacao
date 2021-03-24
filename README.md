@@ -1,10 +1,10 @@
 <div>
-  <div style="width: 100%">
+  <div style="width: 100%; display: block;">
   <a href="http://www.cear.ufpb.br/pet">
       <img src="/images/logopet.png" width="150px" align="right">
   </a>
   </div>
-  <div style="width: 100%">
+  <div style="width: 100%; display: block;">
   <h1 Align='center'>
     <font color='blue'>
         Minicurso - Arduino aplicado a instrumentação
