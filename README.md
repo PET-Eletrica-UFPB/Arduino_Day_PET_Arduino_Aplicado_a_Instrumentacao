@@ -4,6 +4,7 @@
       <img src="/images/logopet.png" width="150px" align="right">
   </a>
   </div>
+  <div style="width: 100%">
   <h1 Align='center'>
     <font color='blue'>
         Minicurso - Arduino aplicado a instrumentação
@@ -15,6 +16,7 @@
         Arduino Day 2021
     </font>
   </h2>
+  <div>
 </div>
 
 ## Requisitos para participar do curso
