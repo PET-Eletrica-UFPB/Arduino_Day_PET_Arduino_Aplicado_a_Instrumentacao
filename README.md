@@ -1,8 +1,9 @@
 <div>
+  <div style="width: 100%">
   <a href="http://www.cear.ufpb.br/pet">
       <img src="/images/logopet.png" width="150px" align="right">
   </a>
-  
+  </div>
   <h1 Align='center'>
     <font color='blue'>
         Minicurso - Arduino aplicado a instrumentação
