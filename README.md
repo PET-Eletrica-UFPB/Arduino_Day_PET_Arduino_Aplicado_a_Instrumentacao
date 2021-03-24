@@ -32,7 +32,7 @@ O curso terá duração de quatro horas e será ministrado em um dia. Será dipo
 ## Resultados Esperados
   1. Viabilizar o desenvolvimento do conhecimento acerca de tecnologia.
   2. Despertar o interesse dos participantes acerca de microcontroladores.
-  3. Ilustrar formas simples de utilizar microcontroladores para captação de dados e sensoriamento na Enegenharia Elétrica.
+  3. Ilustrar formas simples de utilizar microcontroladores para captação de dados e sensoriamento na Engenharia Elétrica.
 
 
 <a href="https://github.com/PETEletricaUFPB">
